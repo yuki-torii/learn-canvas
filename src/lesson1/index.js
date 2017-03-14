@@ -5,7 +5,6 @@
  * 初始化的宽度是300px、高度是150px
  */
 function createCanvas () {
-
   // 创建出一个canvas元素
   var el = document.createElement('canvas')
 
@@ -21,7 +20,6 @@ var canvasEl = createCanvas()
 
 // 检查浏览器是否支持
 if (canvasEl.getContext) {
-
   // 获取2D图形绘画界面
   // 相当于我们取得了一个画笔，这样就可以在画布上作画
   var ctx = canvasEl.getContext('2d')
