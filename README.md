@@ -21,6 +21,9 @@ $ cd learn-canvas
 # 安装依赖
 $ npm install
 
+# 或者
+$ yarn
+
 # 启动代码后，用浏览器打开 http://localhost:8080
 $ npm run dev
 ```
