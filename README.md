@@ -10,7 +10,10 @@ https://nodejs.org/en/
 https://git-scm.com/downloads
 下载安装包后安装
 
-### 下载运行
+### 学习ES6
+http://es6.ruanyifeng.com/
+
+## 下载运行
 ```bash
 # 下载代码
 $ git clone https://github.com/yuki-torii/learn-canvas.git
